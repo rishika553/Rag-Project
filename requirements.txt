@@ -1,0 +1,21 @@
+# Mistral AI
+mistralai
+
+# LangChain
+langchain
+langchain-mistralai
+langchain-community
+langchain-text-splitters
+langchain-openai
+# Vector Database
+chromadb
+
+# Document processing
+pypdf
+
+# Environment variables
+python-dotenv
+
+# API / Backend
+fastapi
+uvicorn

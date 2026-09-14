@@ -1,0 +1,34 @@
+MACHINE LEARNING - DETAILED NOTES
+
+==================================================
+1. INTRODUCTION TO MACHINE LEARNING
+==================================================
+
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every possible situation.
+
+
+
+
+==================================================
+2. ARTIFICIAL INTELLIGENCE VS MACHINE LEARNING
+==================================================
+
+Artificial Intelligence (AI) is the broader field of creating systems that can perform tasks that normally require human intelligence.
+
+Machine Learning is a subset of AI.
+
+Deep Learning is a subset of Machine Learning.
+
+
+Artificial Intelligence:
+- Large field
+- Includes reasoning, planning, perception, language understanding, robotics, etc.
+
+Machine Learning:
+- Learns patterns from data
+- Used for prediction and decision making
+
+Deep Learning:
+- Uses neural networks with multiple layers
+- Particularly useful for images, speech, text, and complex patterns
+
