@@ -11,8 +11,8 @@ load_dotenv()
 
 loader = PyPDFLoader("Document_loaders/ml.pdf")
 
-data = PyPDFLoader("Document_loaders/ml.pdf")
-docs = data.load()
+
+docs = loader.load()
 
 splitter = RecursiveCharacterTextSplitter(
     chunk_size = 1000,
