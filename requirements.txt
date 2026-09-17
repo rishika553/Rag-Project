@@ -10,6 +10,16 @@ langchain-openai
 # Vector Database
 chromadb
 
+
+streamlit
+langchain
+langchain-openrouter
+langchain-community
+chromadb
+pypdf
+python-dotenv
+
+
 # Document processing
 pypdf
 
