@@ -197,7 +197,7 @@ def get_embedding_model():
 @st.cache_resource
 def get_llm():
     return ChatOpenRouter(
-        model="cohere/north-mini-code:free",
+       model="openrouter/free",
         base_url="https://openrouter.ai/api/v1",
         api_key=OPENROUTER_API_KEY,
     )
